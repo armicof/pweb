@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #F7F7F7;
+    font-family: 'Inter';
+}
+p {
+    color: #854836;
+}
+
+a:link {
+    text-decoration: none;
+    color: #854836;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #854836;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #854836;
+    font-weight: bold;
+}
+
+.formatheader {
+    font-size : larger;
+}
