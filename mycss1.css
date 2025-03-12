@@ -28,3 +28,14 @@ a:hover {
 .formatheader {
     font-size : larger;
 }
+
+.mask {
+    -webkit-mask-image: url(tes.png);
+    mask-image: url(tes.png);
+  }
+
+.masking {
+    -webkit-mask-image: url(tes.png);
+    mask-image: url(tes.png);
+    mask-repeat: no-repeat;
+}
